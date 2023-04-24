@@ -1,3 +1,4 @@
+<?php
 /**
 
 This function removes dashes from labels in the email message.
