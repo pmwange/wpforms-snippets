@@ -1,0 +1,6 @@
+/* removing the border and leave only the bottom border on fields */
+.wpforms-field-container input,.wpforms-field-container textarea{
+border-top: none !important;
+border-left: none !important;
+border-right: none !important;
+}
